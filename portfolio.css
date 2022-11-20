@@ -17,9 +17,7 @@ body{
 img{width: 200px;
 border-radius:10px;
 }
-.grid{display: grid;
-    align-items: center; 
-    grid-template-columns: auto auto;
+
 }
 .row {
    
