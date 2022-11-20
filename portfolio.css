@@ -1,0 +1,53 @@
+body{
+    background-color: rgb(6, 6, 18);
+    background-image:conic-gradient (rgb(18, 18, 44),rgb(20, 1, 20)),rgb(53, 35, 3);
+    color:white;
+    t
+}
+.container{
+    background-color: rgb(93, 93, 137);
+    max-width: 800px;
+    margin: auto;
+    padding:100px;
+    margin-top: 100px;
+    border-radius: 16px;
+
+
+}
+img{width: 200px;
+border-radius:10px;
+}
+.grid{display: grid;
+    align-items: center; 
+    grid-template-columns: auto auto;
+}
+.row {
+   
+display:flex;
+
+   
+}
+.columnside {
+    margin-left: 100px;
+    margin-bottom: 100px;
+    
+  }
+  .column {
+    margin-left: 100px;
+    margin-bottom: 100px;
+    display:flex;
+  }
+    h1{
+        color:orange;
+        font-size: 50px;
+        font-family: Helvetica;
+        margin-top: -20px;
+    
+    }
+    h4{
+        font-size: 20px;
+        font-weight:lighter;
+    }
+    h3{
+        padding-top: 40px;
+    }
